@@ -10,4 +10,7 @@
 
 ③修改steam/config/steamvr.setting文件，在`"steamvr":{`行的下一行添加内容为`"activeMulitipleDrivers":true,`的新行
 
-群友代传： [蓝奏云](https://wwu.lanzoub.com/iPwHJ04jfgni) 密码:1234
+~~群友代传： [蓝奏云](https://wwu.lanzoub.com/iPwHJ04jfgni) 密码:1234~~ (已失效)
+
+[蓝奏云](https://wwt.lanzoub.com/b0d48942b)
+密码:6hpk
