@@ -12,4 +12,16 @@
 
 感谢小凌瞎玩@bilibili制作的[视频教程](http://b23.tv/eUQDddw)
 
-[蓝奏云2](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
+[蓝奏云](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
+
+### ChangeLog:
+
+#### 2022.7.1
+
+- 添加手柄连接状态检测；
+
+- 添加手柄电量检测；
+
+- 添加错误提示（按官方SDK原样提供）；
+
+- 无需点击“是”便可以正常使用手柄；
