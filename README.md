@@ -12,8 +12,4 @@
 
 感谢小凌瞎玩@bilibili制作的[视频教程](http://b23.tv/eUQDddw)
 
-~~群友代传： [蓝奏云](https://wwu.lanzoub.com/iPwHJ04jfgni) 密码:1234~~ (已失效)
-
-[蓝奏云1](https://wwu.lanzoub.com/izZFH04ji78h) 密码:1234
-
 [蓝奏云2](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
