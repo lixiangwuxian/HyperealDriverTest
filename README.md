@@ -14,7 +14,9 @@
 
 [蓝奏云](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
 
-### ChangeLog:
+------
+
+### Changelog:
 
 #### 2022.7.1
 
