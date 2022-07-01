@@ -10,7 +10,7 @@
 
 ③修改steam/config/steamvr.setting文件，在`"steamvr":{`行的下一行添加内容为`"activeMulitipleDrivers":true,`的新行
 
-感谢小凌瞎玩@bilibili制作的[视频教程](http://b23.tv/eUQDddw)
+感谢小凌瞎玩@bilibili制作的[视频安装教程](http://b23.tv/eUQDddw)
 
 亦有本人简单录制的[安装方法](https://www.bilibili.com/video/bv14Y4y1n7Q9)
 
