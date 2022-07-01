@@ -12,6 +12,8 @@
 
 感谢小凌瞎玩@bilibili制作的[视频教程](http://b23.tv/eUQDddw)
 
+亦有本人简单录制的[安装方法](https://www.bilibili.com/video/bv14Y4y1n7Q9)
+
 [蓝奏云](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
 
 ------
