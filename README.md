@@ -14,7 +14,7 @@
 
 亦有本人简单录制的[安装方法](https://www.bilibili.com/video/bv14Y4y1n7Q9)
 
-[蓝奏云](https://wwt.lanzoub.com/b0d48942b) 密码:6hpk
+[蓝奏云](https://wwt.lanzoub.com/b0d48942b)(仅同步最新驱动文件) 密码:6hpk
 
 ------
 
