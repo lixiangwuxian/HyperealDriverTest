@@ -1,6 +1,6 @@
 # HyperealDriverTest
 
-感谢群友星凌，三木，宇浩喵赞助的午饭，感谢群友这是为了活下去的挣扎赞助的快乐水
+感谢群友`星凌`，`三木`，`宇浩喵`赞助的午饭，感谢群友`这是为了活下去的挣扎`赞助的快乐水
 
 不会写IVRvirualDisplay。魔改了部分Hypereal OpenVR Driver的字节码。
 
