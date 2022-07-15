@@ -16,6 +16,8 @@
 
 [蓝奏云](https://wwt.lanzoub.com/b0d48942b)(仅同步最新驱动文件) 密码:6hpk
 
+[Source Code](https://github.com/lixiangwuxian/Hypereal2OpenVR)
+
 ------
 
 ### Changelog:
@@ -26,6 +28,6 @@
 
 - 添加手柄电量检测；
 
-- 添加错误提示（按官方SDK原样提供）；
+- 添加错误提示（依官方SDK原样提供）；
 
 - 无需点击“是”便可以正常使用手柄；
